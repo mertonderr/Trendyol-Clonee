@@ -1,5 +1,4 @@
-*{
-        margin: 0;
+*{      margin: 0;
         padding: 0;
         box-sizing: border-box;
 }
@@ -50,6 +49,7 @@ body{
     color: black;
 }
 .giristxt{
+    cursor: default;
     text-decoration: black;
     margin-left: 73.3rem;
     margin-top: -1.3rem;  
@@ -62,6 +62,7 @@ body{
     margin-left: 78rem;
 }
 .favori{
+    cursor: default;
     margin-top: -1.5rem;
     margin-left: 79.3rem;
 }
@@ -76,6 +77,7 @@ body{
     margin-left: 85rem;
 }
 .sepettxt{
+    cursor: default;
     margin-top: -1.4rem;
     margin-left: 86.2rem;
 }
