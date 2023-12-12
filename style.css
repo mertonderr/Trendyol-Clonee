@@ -2,13 +2,10 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-    
 }
 body{
-    
     overflow-x: scroll;
 }
-
 .kupon{
     height: 30px;
     width: 100%;
@@ -40,6 +37,12 @@ body{
     margin-top: -5rem;
     display: flex;
 }
+.giris:hover{
+    color: orange;
+}
+.giristxt:hover{
+    color: orange;
+}
 .giris{
     display: flex;
     margin-left: 72rem;
@@ -59,6 +62,12 @@ body{
     margin-top: -1.5rem;
     margin-left: 79.3rem;
 }
+.favori:hover{
+    color: orange;
+}
+.sepet:hover{
+    color: orange;
+}
 .sepet{
     margin-top: -2.5rem;
     margin-left: 85rem;
@@ -66,6 +75,9 @@ body{
 .sepettxt{
     margin-top: -1.4rem;
     margin-left: 86.2rem;
+}
+.sepettxt:hover{
+    color: orange;
 }
 .metin{
     margin-top: 2.8rem;
