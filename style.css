@@ -58,6 +58,9 @@ body{
     margin-top: -2.5rem;
     margin-left: 78rem;
 }
+.fav:hover{
+    color: orange;
+}
 .favori{
     margin-top: -1.5rem;
     margin-left: 79.3rem;
